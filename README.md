@@ -52,7 +52,7 @@ Used for design entry, synthesis, implementation, and bitstream generation. It a
 ### Questa Sim:
 Used for simulation and functional verification to ensure correct functional behavior of the design.
 
-Questa Lint:
+### Questa Lint:
 Used for static RTL analysis. Helped detect early design issues such as coding style violations, unreachable logic, and synthesis-simulation mismatches.
 
 
