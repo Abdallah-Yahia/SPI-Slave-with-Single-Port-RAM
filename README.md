@@ -36,13 +36,25 @@ READ_DATA: In this state, the SPI slave sends the requested data from RAM to the
 
 ## iv): Signal Description:
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
 | Signal | Type | Width | Description |
+
