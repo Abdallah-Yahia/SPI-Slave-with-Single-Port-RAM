@@ -63,6 +63,11 @@ Used for static RTL analysis. Helped detect early design issues such as coding s
 - **LinkedIn**: ![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_icon_2013.svg) [LinkedIn Profile](https://www.linkedin.com/in/abdallah-yahia)
 
 
+## Contact Me
+
+You can reach me through:
+
+- **Beacons**: ![Beacons Icon](https://upload.wikimedia.org/wikipedia/commons/3/3a/Beacons.ai_Logo.png) [Beacons Profile](https://beacons.ai/abdallah_yahia)
 
 
 
