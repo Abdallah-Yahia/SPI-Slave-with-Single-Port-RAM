@@ -64,7 +64,7 @@ Used for static RTL analysis. Helped detect early design issues such as coding s
 
 You can reach me through:
 
-- **Beacons**: [![Beacons Icon](https://upload.wikimedia.org/wikipedia/commons/3/3a/Beacons.ai_Logo.png)](https://beacons.ai/abdallah_yahia)
+[](https://upload.wikimedia.org/wikipedia/commons/3/3a/Beacons.ai_Logo.png)](https://beacons.ai/abdallah_yahia)
 
 
 
