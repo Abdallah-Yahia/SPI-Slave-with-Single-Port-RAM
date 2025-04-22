@@ -46,11 +46,14 @@ READ_DATA: In this state, the SPI slave sends the requested data from RAM to the
 | dout       | Input  | 8      | Data output from RAM                        |
 
 # 🛠️ Tools Used:
-### Vivado: Used for design entry, synthesis, implementation, and bitstream generation. It also helped in constraint management and timing analysis.
+### Vivado:
+Used for design entry, synthesis, implementation, and bitstream generation. It also helped in constraint management and timing analysis.
 
-### Questa Sim: Used for simulation and functional verification to ensure correct functional behavior of the design.
+### Questa Sim:
+Used for simulation and functional verification to ensure correct functional behavior of the design.
 
-Questa Lint: Used for static RTL analysis. Helped detect early design issues such as coding style violations, unreachable logic, and synthesis-simulation mismatches.
+Questa Lint:
+Used for static RTL analysis. Helped detect early design issues such as coding style violations, unreachable logic, and synthesis-simulation mismatches.
 
 
 
