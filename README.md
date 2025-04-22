@@ -35,10 +35,19 @@ READ_ADDR: When SS_n is low and MOSI is high, the SPI slave transitions to READ_
 READ_DATA: In this state, the SPI slave sends the requested data from RAM to the master. The state persists as long as SS_n is low and transitions to IDLE when SS_n is high.
 
 ## iv): Signal Description:
-| Signal         | Type                            | Width          | Description                     |
-|----------------|---------------------------------|----------------|---------------------------------|
-| Power Saving   | Gray encoding reduces switching | Power Saving   | Gray encoding reduces switching |
-| Area Efficient | Fewer flip-flops needed         | Area Efficient | Fewer flip-flops needed         |
+| Signal     | Type   | Width | Description                                 |
+|------------|--------|--------|---------------------------------------------|
+| MOSI       | Input  | 1      | Master Out Slave In                         |
+| MISO       | Output | 1      | Master In Slave Out                         |
+| SS_n       | Input  | 1      | Slave Select (active low)                   |
+| clk        | Input  | 1      | Clock signal                                |
+| rst_n      | Input  | 1      | Reset signal (active low)                   |
+| rx_data    | Output | 10     | Data received from SPI master               |
+| rx_valid   | Output | 1      | Indicates valid data received from SPI      |
+| tx_data    | Input  | 8      | Data to be transmitted to SPI master        |
+| tx_valid   | Input  | 1      | Indicates valid data to transmit to SPI     |
+| din        | Output | 10     | Data input to RAM                           |
+| dout       | Input  | 8      | Data output from RAM                        |
 
 
 
