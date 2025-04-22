@@ -2,6 +2,7 @@
 
 # 📌Project Overview: 
 
+
 ##  • Description: 
 The Serial Peripheral Interface (SPI) is a high-speed, synchronous serial 
 communication protocol commonly used for short-distance data exchange, 
