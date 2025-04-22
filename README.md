@@ -23,7 +23,7 @@ display modules.
 
 ## iii): SPI State Diagram: 
 ![image](https://github.com/user-attachments/assets/6dc7f7e0-0793-4b1b-83db-6d60c802dcbc)
-### State Descriptions
+### State Descriptions:
 IDLE: The initial state where the SPI slave waits for communication. The state machine returns to IDLE on reset or when SS_n (Slave Select) is high.
 
 CHK_CMD (Check Command): When SS_n is low, the SPI slave checks the command bit (MOSI). If MOSI is high, it transitions to READ_ADDR; if low, it transitions to WRITE.
