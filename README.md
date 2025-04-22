@@ -2,7 +2,7 @@
 
 # 📌Project Overview: 
 
-##  i): Description: 
+##  • Description: 
 The Serial Peripheral Interface (SPI) is a high-speed, synchronous serial 
 communication protocol commonly used for short-distance data exchange, 
 particularly in embedded systems. It enables efficient and simultaneous two-way (full 
@@ -12,11 +12,11 @@ connecting microcontrollers with peripherals such as sensors, memory devices, an
 display modules. 
 
 
-## ii): SPI Architecture: 
+## • SPI Architecture: 
 ![image](https://github.com/user-attachments/assets/8cad3e3e-252d-45bc-b5fa-a36bc2009a0a)
 
 
-## iii): SPI State Diagram: 
+## • SPI State Diagram: 
 ![image](https://github.com/user-attachments/assets/6dc7f7e0-0793-4b1b-83db-6d60c802dcbc)
 ### State Descriptions:
 IDLE: The initial state where the SPI slave waits for communication. The state machine returns to IDLE on reset or when SS_n (Slave Select) is high.
@@ -30,8 +30,8 @@ READ_ADDR: When SS_n is low and MOSI is high, the SPI slave transitions to READ_
 READ_DATA: In this state, the SPI slave sends the requested data from RAM to the master. The state persists as long as SS_n is low and transitions to IDLE when SS_n is high.
 
 
-## iv): Signal Description:
-| Signal     | Type   | Width | Description                                 |
+## • Signal Description:
+| Signal     | Type   | Width | Description                                  |
 |------------|--------|--------|---------------------------------------------|
 | MOSI       | Input  | 1      | Master Out Slave In                         |
 | MISO       | Output | 1      | Master In Slave Out                         |
