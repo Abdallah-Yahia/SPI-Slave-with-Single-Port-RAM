@@ -1,6 +1,6 @@
 # 🕸️SPI-Slave-with-Single-Port-RAM
 
-# 📌Project Overview: 
+# 📌 Project Overview: 
 
 
 ##  • Description: 
@@ -46,7 +46,7 @@ READ_DATA: In this state, the SPI slave sends the requested data from RAM to the
 | din        | Output | 10     | Data input to RAM                           |
 | dout       | Input  | 8      | Data output from RAM                        |
 
-# 🛠️ Tools Used:
+# 📌 Tools Used:
 ### Vivado:
 Used for design entry, synthesis, implementation, and bitstream generation. It also helped in constraint management and timing analysis.
 
@@ -56,7 +56,7 @@ Used for simulation and functional verification to ensure correct functional beh
 ### Questa Lint:
 Used for static RTL analysis. Helped detect early design issues such as coding style violations, unreachable logic, and synthesis-simulation mismatches.
 
-# Contact:
+# 📌 Contact:
 
 ### Click on the image below
 <a href="https://beacons.ai/abdallah_yahia">
