@@ -57,6 +57,7 @@ Used for static RTL analysis. Helped detect early design issues such as coding s
 
 # Contact:
 https://beacons.ai/abdallah_yahia
+whatsapp
 
 
 
