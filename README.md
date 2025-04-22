@@ -35,20 +35,11 @@ READ_ADDR: When SS_n is low and MOSI is high, the SPI slave transitions to READ_
 READ_DATA: In this state, the SPI slave sends the requested data from RAM to the master. The state persists as long as SS_n is low and transitions to IDLE when SS_n is high.
 
 ## iv): Signal Description:
-| Feature        | Description                     |
-|----------------|---------------------------------|
-| Power Saving   | Gray encoding reduces switching |
-| Area Efficient | Fewer flip-flops needed         |
-| Fast Decoding  | Simple logic for transitions    |
-| Power Saving   | Gray encoding reduces switching |
-| Area Efficient | Fewer flip-flops needed         |
-| Fast Decoding  | Simple logic for transitions    |
-| Power Saving   | Gray encoding reduces switching |
-| Area Efficient | Fewer flip-flops needed         |
-| Fast Decoding  | Simple logic for transitions    |
-| Power Saving   | Gray encoding reduces switching |
-| Area Efficient | Fewer flip-flops needed         |
-| Fast Decoding  | Simple logic for transitions    |
+| Feature        | Description                     | Feature        | Description                     |
+|----------------|---------------------------------|----------------|---------------------------------|
+| Power Saving   | Gray encoding reduces switching | Power Saving   | Gray encoding reduces switching |
+| Area Efficient | Fewer flip-flops needed         | Area Efficient | Fewer flip-flops needed         |
+
 
 
 
