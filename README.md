@@ -56,7 +56,13 @@ Used for simulation and functional verification to ensure correct functional beh
 ### Questa Lint:
 Used for static RTL analysis. Helped detect early design issues such as coding style violations, unreachable logic, and synthesis-simulation mismatches.
 
+# Contact info:
 
+You can reach me through:
+
+- **Beacons**: [![Image](https://github.com/user-attachments/assets/c66c754f-ddcf-4fc0-b30f-24da33f59c7e)](https://beacons.ai/abdallah_yahia)
+![image](https://github.com/user-attachments/assets/c66c754f-ddcf-4fc0-b30f-24da33f59c7e)
+https://beacons.ai/abdallah_yahia
 
 
 
