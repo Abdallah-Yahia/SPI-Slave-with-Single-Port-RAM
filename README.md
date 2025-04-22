@@ -18,3 +18,5 @@ display modules.
 • dout in the RAM module is connected to tx_data in the SPI slave module. 
 
 • tx_valid in the RAM module is connected to tx_valid in the SPI slave module.
+![image](https://github.com/user-attachments/assets/8cad3e3e-252d-45bc-b5fa-a36bc2009a0a)
+
