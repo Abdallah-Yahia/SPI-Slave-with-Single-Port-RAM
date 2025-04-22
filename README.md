@@ -56,8 +56,9 @@ Used for simulation and functional verification to ensure correct functional beh
 Used for static RTL analysis. Helped detect early design issues such as coding style violations, unreachable logic, and synthesis-simulation mismatches.
 
 # Contact:
-https://beacons.ai/abdallah_yahia
-whatsapp
+[![LinkedIn](https://github.com/abdallah-yahia/abdallah-yahia/raw/main/images/photo.jpg)](https://www.linkedin.com/in/abdallah-yahia)
+
+
 
 
 
