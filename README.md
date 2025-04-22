@@ -40,6 +40,15 @@ READ_DATA: In this state, the SPI slave sends the requested data from RAM to the
 | Power Saving   | Gray encoding reduces switching |
 | Area Efficient | Fewer flip-flops needed         |
 | Fast Decoding  | Simple logic for transitions    |
+| Power Saving   | Gray encoding reduces switching |
+| Area Efficient | Fewer flip-flops needed         |
+| Fast Decoding  | Simple logic for transitions    |
+| Power Saving   | Gray encoding reduces switching |
+| Area Efficient | Fewer flip-flops needed         |
+| Fast Decoding  | Simple logic for transitions    |
+| Power Saving   | Gray encoding reduces switching |
+| Area Efficient | Fewer flip-flops needed         |
+| Fast Decoding  | Simple logic for transitions    |
 
 
 
